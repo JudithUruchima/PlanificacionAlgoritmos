@@ -1,0 +1,10 @@
+modelo\FirstComeFirstServed.class
+modelo\ShortestJobFirst.class
+module-info.class
+ec\edu\uees\algoritmos\Controlador.class
+modelo\ShortTermPredict.class
+modelo\Proceso.class
+modelo\RoundRobin.class
+modelo\Estadisticas.class
+ec\edu\uees\algoritmos\App.class
+modelo\CargarTxt.class
