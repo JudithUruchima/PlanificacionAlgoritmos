@@ -102,7 +102,7 @@
                         <HBox alignment="CENTER" prefHeight="50.0" prefWidth="800.0" spacing="20.0" VBox.vgrow="ALWAYS">
                            <children>
                                
-                                     <Label fx:id="lblEstadisticas" text="Estadísticas STR: ">
+                                     <Label fx:id="lblEstadisticas" text="Estadísticas STP: ">
                                  <font>
                                     <Font name="Courier New Bold" size="16.0" />
                                  </font>
@@ -128,7 +128,7 @@
                         <Font name="Courier New Bold" size="14.0" />
                      </font>
                   </Label>
-                  <TextArea editable="false" prefHeight="154.0" prefWidth="279.0" text="P1,0,5&#10;P2,2,3&#10;P3,4,8&#10;P4,6,2&#10;&#10;Donde:&#10;- La primera columna es el id del proceso.&#10;- La segunda columna es el orden de llegada.&#10;- La tercera columna es la duración del proceso.&#10;" VBox.vgrow="ALWAYS">
+                  <TextArea editable="false" prefHeight="154.0" prefWidth="279.0" text="P1,1,5&#10;P2,2,3&#10;P3,4,8&#10;P4,6,2&#10;&#10;Donde:&#10;- La primera columna es el id del proceso.&#10;- La segunda columna es el orden de llegada.&#10;- La tercera columna es la duración del proceso.&#10;" VBox.vgrow="ALWAYS">
                      <font>
                         <Font name="Courier New" size="14.0" />
                      </font>
